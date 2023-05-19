@@ -1,0 +1,28 @@
+.containerCheckout{
+  border: 1px solid #000;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.container-User{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 1.25rem;
+}
+
+.container-Products{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 1.25rem;
+}
+
+.imgOrders{
+  width: 100px;
+}

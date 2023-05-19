@@ -1,0 +1,18 @@
+.cart{
+  min-height: 300px;
+  animation: scale 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+ @keyframes scale {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.image{
+  max-height: 100px;
+}

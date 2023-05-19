@@ -1,0 +1,8 @@
+.nav-item {
+  transition: all 1s;
+}
+
+.nav-item:hover {
+  background-color: #eee;
+  border-radius: 15px;
+}
