@@ -1,6 +1,7 @@
 {
   "name": "react-ecommerce",
   "private": true,
+  "homepage": "https://jorge-73.github.io/ReactJs-Ecommerce/"
   "version": "0.0.0",
   "type": "module",
   "scripts": {
