@@ -18,9 +18,9 @@ export function ItemListContainer({ greeting }) {
   useEffect(() => {
 
     const promesa = new Promise((res, reject) => {
-     // setTimeout(() => {
+      setTimeout(() => {
         res(productsDb);
-      // }, 2000);
+       }, 2000);
     });
 
     setProd([]);
